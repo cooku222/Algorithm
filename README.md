@@ -1,2 +1,15 @@
-# Algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🧠 백준 알고리즘 문제 풀이
+
+이 레포지토리는 [백준 온라인 저지(BOJ)](https://www.acmicpc.net/)에서 제공하는 알고리즘 문제를 **풀이한 코드 모음집**입니다.
+
+## 📌 목적
+
+- 자료구조 및 알고리즘 역량 향상
+- 정규적인 문제 풀이 습관 형성
+- 면접 및 코딩 테스트 대비
+
+## 🛠️ 언어
+
+- Python 3
+- C (일부 문제)
+- Java (일부 문제)
